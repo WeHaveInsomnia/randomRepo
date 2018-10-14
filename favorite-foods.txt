@@ -1,2 +1,3 @@
-Pizza
-Chicken wings
+Chicken wings [meat]
+Pizza [garbage]
+
